@@ -1,0 +1,33 @@
+.problema {
+    grid-area: a1;
+    background-color: blue;
+    color: gold;
+    border-radius: 5px;
+    padding: 15px;
+}
+.datos {
+    grid-area: a2;
+    background-color: red;
+    border-radius: 5px;
+    padding: 15px;
+}
+.formulas {
+    grid-area: a3;
+    background-color: darkcyan;
+    border-radius: 5px;
+    padding: 15px;
+}
+.calculos {
+    grid-area: a4;
+    background-color: indigo;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+}
+.resultado {
+    grid-area: a5;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+}
